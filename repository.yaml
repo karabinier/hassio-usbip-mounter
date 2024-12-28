@@ -1,0 +1,5 @@
+{
+name: "Home Assistant Add-on: USBIP Mounter",
+url: "https://github.com/karabinier/hassio-usbip-mounter",
+maintainer: "Karabinier"
+}
